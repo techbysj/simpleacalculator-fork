@@ -9,7 +9,7 @@ It is created as part of a GitHub and Git CLI training exercise.
 - Calculates the simple interest using the formula:  
   **Simple Interest = (Principal × Rate × Time) / 100**
 - Displays the result to the user.
-
+- Changing some stuff
 ## How to Use
 1. Clone the repository:
    ```bash
